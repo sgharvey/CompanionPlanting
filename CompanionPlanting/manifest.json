@@ -1,0 +1,10 @@
+{
+  "Name": "CompanionPlanting",
+  "Author": "Samuel Harvey",
+  "Version": "0.1",
+  "Description": "",
+  "UniqueID": "SamuelHarvey.CompanionPlanting",
+  "EntryDll": "CompanionPlanting.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}
